@@ -1,0 +1,30 @@
+[
+  {
+    "Name": null,
+    "Description": null,
+    "Location": null,
+    "Price": 0,
+    "Quality": 0,
+    "availableDays": null,
+    "Email": null,
+    "Capacity": null,
+    "Products": null,
+    "Id": 11,
+    "CreatedAt": "2023-02-22T19:16:44.266201Z",
+    "UpdatedAt": null
+  },
+  {
+    "Name": null,
+    "Description": null,
+    "Location": null,
+    "Price": 0,
+    "Quality": 0,
+    "availableDays": null,
+    "Email": null,
+    "Capacity": null,
+    "Products": null,
+    "Id": 11,
+    "CreatedAt": "2023-02-22T19:16:50.0651709Z",
+    "UpdatedAt": null
+  }
+]

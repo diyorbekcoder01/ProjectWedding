@@ -1,0 +1,184 @@
+[
+  {
+    "firstName": "client1f",
+    "lastName": "client1l",
+    "email": "client1@gmail.com",
+    "password": null,
+    "phone": null,
+    "dateOfBirth": "2023-02-22T18:47:28.0010665Z",
+    "Orders": [
+      {
+        "Restaurant": {
+          "Name": "restaurant1",
+          "Description": null,
+          "Location": null,
+          "Price": 0,
+          "Quality": 20,
+          "availableDays": null,
+          "Email": null,
+          "Capacity": null,
+          "Products": [
+            {
+              "Name": "restaurant1product1n",
+              "Description": "restaurant1product1",
+              "Price": 100,
+              "Id": 1,
+              "CreatedAt": "2023-02-22T18:47:27.8783321Z",
+              "UpdatedAt": null
+            },
+            {
+              "Name": "restaurant1product2n",
+              "Description": "restaurant1product2",
+              "Price": 200,
+              "Id": 2,
+              "CreatedAt": "2023-02-22T18:47:27.8783864Z",
+              "UpdatedAt": null
+            },
+            {
+              "Name": "restaurant1product3n",
+              "Description": "restaurant1product3",
+              "Price": 300,
+              "Id": 3,
+              "CreatedAt": "2023-02-22T18:47:27.8783866Z",
+              "UpdatedAt": null
+            }
+          ],
+          "Id": 0,
+          "CreatedAt": "2023-02-22T18:47:27.8782137Z",
+          "UpdatedAt": null
+        },
+        "Date": "2023-02-22T18:47:28.0010644Z",
+        "Id": 1,
+        "CreatedAt": "2023-02-22T18:47:28.0010641Z",
+        "UpdatedAt": null
+      },
+      {
+        "Restaurant": null,
+        "Date": "0001-01-01T00:00:00",
+        "Id": 0,
+        "CreatedAt": "0001-01-01T00:00:00",
+        "UpdatedAt": null
+      },
+      {
+        "Restaurant": null,
+        "Date": "0001-01-01T00:00:00",
+        "Id": 0,
+        "CreatedAt": "0001-01-01T00:00:00",
+        "UpdatedAt": null
+      }
+    ],
+    "Guests": [
+      {
+        "firstName": "client1guest1f",
+        "lastName": "client1guest1l",
+        "dateOfBirth": "2023-02-22T18:47:28.0010672Z",
+        "Email": "client1guest1gmail.com",
+        "Password": null,
+        "Gifts": [
+          {
+            "Name": "client1guest1gift1n",
+            "Description": "client1guest1gift1",
+            "Price": 100,
+            "Id": 1,
+            "CreatedAt": "2023-02-22T18:47:28.0010676Z",
+            "UpdatedAt": null
+          },
+          {
+            "Name": "client1guest1gift2n",
+            "Description": "client1guest1gift2",
+            "Price": 200,
+            "Id": 2,
+            "CreatedAt": "2023-02-22T18:47:28.001068Z",
+            "UpdatedAt": null
+          },
+          {
+            "Name": "client1guest1gift3n",
+            "Description": "client1guest1gift3",
+            "Price": 300,
+            "Id": 3,
+            "CreatedAt": "2023-02-22T18:47:28.0010682Z",
+            "UpdatedAt": null
+          }
+        ],
+        "Id": 1,
+        "CreatedAt": "2023-02-22T18:47:28.0010671Z",
+        "UpdatedAt": null
+      },
+      {
+        "firstName": "client1guest2f",
+        "lastName": "client1guest2l",
+        "dateOfBirth": "2023-02-22T18:47:28.0010686Z",
+        "Email": "client1guest2gmail.com",
+        "Password": null,
+        "Gifts": [
+          {
+            "Name": "client1guest2gift1n",
+            "Description": "client1guest2gift1",
+            "Price": 100,
+            "Id": 1,
+            "CreatedAt": "2023-02-22T18:47:28.0010688Z",
+            "UpdatedAt": null
+          },
+          {
+            "Name": "client1guest2gift2n",
+            "Description": "client1guest2gift2",
+            "Price": 200,
+            "Id": 2,
+            "CreatedAt": "2023-02-22T18:47:28.0010689Z",
+            "UpdatedAt": null
+          },
+          {
+            "Name": "client1guest2gift3n",
+            "Description": "client1guest2gift3",
+            "Price": 300,
+            "Id": 3,
+            "CreatedAt": "2023-02-22T18:47:28.0010691Z",
+            "UpdatedAt": null
+          }
+        ],
+        "Id": 2,
+        "CreatedAt": "2023-02-22T18:47:28.0010686Z",
+        "UpdatedAt": null
+      },
+      {
+        "firstName": "client1guest3f",
+        "lastName": "client1guest3l",
+        "dateOfBirth": "2023-02-22T18:47:28.0010734Z",
+        "Email": "client1guest3gmail.com",
+        "Password": null,
+        "Gifts": [
+          {
+            "Name": "client1guest3gift1n",
+            "Description": "client1guest3gift1",
+            "Price": 100,
+            "Id": 1,
+            "CreatedAt": "2023-02-22T18:47:28.0010735Z",
+            "UpdatedAt": null
+          },
+          {
+            "Name": "client1guest3gift2n",
+            "Description": "client1guest3gift2",
+            "Price": 200,
+            "Id": 2,
+            "CreatedAt": "2023-02-22T18:47:28.0010737Z",
+            "UpdatedAt": null
+          },
+          {
+            "Name": "client1guest3gift3n",
+            "Description": "client1guest3gift3",
+            "Price": 300,
+            "Id": 3,
+            "CreatedAt": "2023-02-22T18:47:28.0010739Z",
+            "UpdatedAt": null
+          }
+        ],
+        "Id": 3,
+        "CreatedAt": "2023-02-22T18:47:28.0010693Z",
+        "UpdatedAt": null
+      }
+    ],
+    "Id": 2,
+    "CreatedAt": "2023-02-22T18:47:28.0010753Z",
+    "UpdatedAt": null
+  }
+]
