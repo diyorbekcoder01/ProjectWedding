@@ -61,7 +61,7 @@ namespace ProjectWedding.Service.Services
         public async Task<ResponseRestaurant> GetByIdAsync(long id)
         {
             var model = await restaurantRepository.GetByIdAsync(id);
-            if (model is null)
+            if (model == null)
             {
                 return new ResponseRestaurant()
                 {
